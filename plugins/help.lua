@@ -63,7 +63,7 @@ function run(msg, matches)
     
 〰〰〰〰〰〰〰
 
-✨ @GODILOVEYOUME2 سازنده: ✨
+✨ @MrDevelopr سازنده: ✨
 </i>]]
 end
 
